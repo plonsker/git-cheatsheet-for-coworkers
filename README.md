@@ -1,6 +1,11 @@
-##create a new branch
+##checkout what branches exist in the repo and which one you are on
+` git branch `
 
+##create a new branch
 ` git checkout -b test-branch `
+
+##confirm that you are on the test-branch
+` git branch `
 
 ##check status of comitted or uncomitted files
 ` git status `
@@ -9,7 +14,7 @@
 ` git add . `
 
 ##commit changes
-`git commit -m "Add current message"
+`git commit -m "Add current message"`
 
 ##push changes to branch in remote repo
 ` git push origin test-branch `
