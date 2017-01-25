@@ -1,3 +1,5 @@
+#creating a new branch and successfully merging changes
+
 ##checkout what branches exist in the repo and which one you are on
 ` git branch `
 
@@ -21,7 +23,7 @@
 
 Then submit pull request on GitHub.
 
-##Once PR is approved on GitHub
+##once PR is approved on GitHub
 ` git checkout master `
 
 ` git pull origin master `
@@ -30,5 +32,5 @@ Then submit pull request on GitHub.
 
 ` git merge master `
 
-##Something went wrong?
-[Oh, shit, git!](http://ohshitgit.com/)
+##something went wrong?
+[oh, shit, git!](http://ohshitgit.com/)
