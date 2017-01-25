@@ -16,7 +16,7 @@
 ` git add . `
 
 ##commit changes
-`git commit -m "Add current message"`
+`git commit -m "Add current changes"`
 
 ##push changes to branch in remote repo
 ` git push origin test-branch `
