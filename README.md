@@ -18,6 +18,12 @@ Then submit pull request on GitHub.
 
 ##Once PR is approved on GitHub
 ` git checkout master `
+
 ` git pull origin master `
+
 ` git checkout test-branch `
+
 ` git merge master `
+
+##Something went wrong?
+[Oh, shit, git!](http://ohshitgit.com/)
